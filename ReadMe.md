@@ -1,5 +1,5 @@
 # Hi, I'm Ezgi!👋
-Junior Front-End Developer from Turkey/Istanbul
+from Turkey/Istanbul
 # 💫 About Me:
 🌱 I’m currently learning HTML, CSS, JavaScript etc.<br>📫 How to reach me: ezgi.karali505@gmail.com<br>📝 Website: www.linkedin.com/in/ezgikarali
 
