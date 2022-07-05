@@ -1,7 +1,7 @@
 # Hi, I'm Ezgi!👋
 
 # 💫 About Me:
-🌱 I’m currently learning Html, CSS, JavaScript etc.<br>📫 How to reach me: ezgi.karali505@gmail.com<br>📝 Website: www.linkedin.com/in/ezgikarali
+🌱 I’m currently learning HTML, CSS, JavaScript etc.<br>📫 How to reach me: ezgi.karali505@gmail.com<br>📝 Website: www.linkedin.com/in/ezgikarali
 
 
 ## 🌐 Socials:
