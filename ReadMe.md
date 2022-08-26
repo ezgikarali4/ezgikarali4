@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior_FrontEnd_Developer!;Ezgi+Karalı&center=true&size=25">
   </a>
 </h1>
-# from Turkey/Istanbul
+from Turkey/Istanbul
 
 # 💫 About Me: 
 - 🔭 I’m currently working on FrontEnd Projects.
