@@ -6,8 +6,8 @@
 from Turkey/Istanbul
 
 # 💫 About Me: 
-- 🔭 I’m currently working on FrontEnd Projects.
-- 🌱 I’m currently learning JavaScript, Java etc...
+- 🔭 I’m currently working on Front End projects.
+- 🌱 I have experience in HTML and CSS; currently learning JavaScript, Java etc...
 - 💬 Ask me about my profile or projects on my repositories if I can make it better. 
 - 📫 How to reach me: ezgi.karali505@gmail.com
 - ⚡ Developping myself by solving coding problems and exercises on platforms like HackerRank, CodeWars, Exercism, LeetCode etc.
@@ -25,7 +25,7 @@ from Turkey/Istanbul
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ezgikarali4&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
