@@ -7,7 +7,7 @@ from Turkey/Istanbul
 
 # 💫 About Me: 
 - 🔭 I’m currently working on Front End projects.
-- 🌱 I have experience in HTML and CSS; currently learning JavaScript, Java etc...
+- 🌱 I have experience in HTML and CSS; currently learning JavaScript, Java, Python etc... Curious about Mobile Development.
 - 💬 Ask me about my profile or projects on my repositories if I can make it better. 
 - 📫 How to reach me: ezgi.karali505@gmail.com
 - ⚡ Developping myself by solving coding problems and exercises on platforms like HackerRank, CodeWars, Exercism, LeetCode etc.
