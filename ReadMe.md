@@ -19,13 +19,13 @@ from Turkey/Istanbul
 </p>
 
 # 🌐 Socials:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ezgikarali4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ezgikarali/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg' alt='slack' height='40'>][<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ezgikarali4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ezgikarali/)<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg' alt='slack' height='40'><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>
 
 # 👩‍💻 Coding Plathforms:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ezgi_karali505)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/ezgikarali4)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/ezgikarali/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/exercism.svg' alt='exercism' height='40'>]
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/exercism.svg' alt='exercism' height='40'>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='replit' height='40'>](https://replit.com/@ezgikarali505)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg' alt='codecademy' height='40'>](https://www.codecademy.com/profiles/ezgikarali)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/ezgikarali)
