@@ -26,10 +26,10 @@ from Turkey/Istanbul
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/ezgikarali4)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/ezgikarali/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/exercism.svg' alt='exercism' height='40'>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='replit' height='40'>](https://replit.com/@ezgikarali505)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codecademy.svg' alt='codecademy' height='40'>](https://www.codecademy.com/profiles/ezgikarali)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/ezgikarali)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='freecodecamp' height='40'>](https://codepen.io/ezgikarali4)
-
 
 # 🚀 Skills:
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,7 +41,6 @@ from Turkey/Istanbul
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg
 # 💻 IDE:
 ![Visual-Studio-Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
