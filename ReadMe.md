@@ -8,7 +8,7 @@ from Turkey/Istanbul
 # 💫 About Me: 
 - 🔭 I’m currently working on Front End projects.
 - 📙 I am currently studying Biomedical Engineering and Computer Programming. 
-- 🌱 I have experience in HTML, CSS and Bootstrap; currently learning JavaScript, Java, Python Tailwind CSS and React JS
+- 🌱 I have experience in HTML, CSS and Bootstrap; currently learning JavaScript, Java, Python Tailwind CSS and React JS.
 - 💬 Ask me about my profile or projects on my repositories if I can make it better. 
 - 📫 How to reach me: ezgi.karali505@gmail.com
 - ⚡ Developping myself by solving coding problems on various plathforms and by creating new projects.
