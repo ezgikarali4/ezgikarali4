@@ -53,7 +53,7 @@ from Turkey/Istanbul
 )
 # 📊 GitHub Stats:
 [![Ezgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezgikarali4&show_icons=true&theme=tokyonight)](https://github.com/ezgikarali4/github-readme-stats)<br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezgikarali4&layout=compact)](https://github.com/ezgikarali4/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezgikarali4&layout=compact&theme=tokyonight)](https://github.com/ezgikarali4/github-readme-stats)
 
 
 
