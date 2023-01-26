@@ -52,8 +52,8 @@ from Turkey/Istanbul
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
 )
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ezgikarali4&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezgikarali4&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![]([![Ezgi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezgikarali4)](https://github.com/ezgikarali4/github-readme-stats))<br/>
+![]([![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezgikarali4&layout=compact)](https://github.com/ezgikarali4/github-readme-stats))
 
 
 
