@@ -6,12 +6,13 @@
 from Turkey/Istanbul
 
 # 💫 About Me: 
-- 🔭 I’m currently working on Front End projects.
-- 📙 I am studying Biomedical Engineering and Computer Programming. 
-- 🌱 I have experience in HTML, CSS and Bootstrap; currently learning JavaScript, Java, Python, Tailwind CSS and React JS.
+- 🔭 I've worked on Front End projects and currently working as a Game/Level Designer while learning Unity for Game Development.
+- 📙 I graduated from Yıldız Technical University as Biomedical Engineer.
+-  ⚡ I have been a student-athlete since I was young, participating in basketball and swimming. Currently, I am a wide receiver for the Yildiz Stallions flag football team. 
+- 🌱 I am very passionate about gaming industry and I continue to learn the maximum capacity of this industry holds.
 - 💬 Ask me about my profile or projects on my repositories if I can make it better. 
-- 📫 How to reach me: ezgi.karali505@gmail.com
-- ⚡ Developping myself by solving coding problems on various plathforms and by creating new projects.
+- 📫 For contact: ezgi.karali505@gmail.com
+
 
 
 <p align="center"> 
