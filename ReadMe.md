@@ -11,7 +11,7 @@ from Turkey/Istanbul
 -  ⚡ I have been a student-athlete since I was young, participating in basketball and swimming. Currently, I am a wide receiver for the Yildiz Stallions flag football team. 
 - 🌱 I am very passionate about gaming industry and I continue to learn the maximum capacity of this industry holds.
 - 💬 Ask me about my profile or projects on my repositories if I can make it better. 
-- 📫 For contact: ezgi.karali505@gmail.com
+- 📫 You can find me on LinkedIn
 
 
 
